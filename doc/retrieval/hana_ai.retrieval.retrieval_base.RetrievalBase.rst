@@ -1,9 +1,9 @@
-TSOutlierDetection
-=======================================================================================
+RetrievalBase
+============================================================
 
-.. currentmodule:: hana_ai.tools.hana_ml_tools.ts_outlier_detection_tools
+.. currentmodule:: hana_ai.retrieval.retrieval_base
 
-.. autoclass:: TSOutlierDetection
+.. autoclass:: RetrievalBase
    :members:
    :no-inherited-members:
    :no-undoc-members:
