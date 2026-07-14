@@ -1,9 +1,9 @@
-TSOutlierDetection
-=======================================================================================
+ObjectDiscovery
+================================================================
 
-.. currentmodule:: hana_ai.tools.hana_ml_tools.ts_outlier_detection_tools
+.. currentmodule:: hana_ai.retrieval.object_discovery
 
-.. autoclass:: TSOutlierDetection
+.. autoclass:: ObjectDiscovery
    :members:
    :no-inherited-members:
    :no-undoc-members:

@@ -1,9 +1,9 @@
-TSOutlierDetection
-=======================================================================================
+DataRetrieval
+============================================================
 
-.. currentmodule:: hana_ai.tools.hana_ml_tools.ts_outlier_detection_tools
+.. currentmodule:: hana_ai.retrieval.data_retrieval
 
-.. autoclass:: TSOutlierDetection
+.. autoclass:: DataRetrieval
    :members:
    :no-inherited-members:
    :no-undoc-members:
